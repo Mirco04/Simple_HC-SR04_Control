@@ -1,1 +1,3 @@
-*
+SetTrigPin() #KEYWORD 1
+SetEchoPin() #KEYWORD 2
+getDistanceInCentimeters() #KEYWORD 3
